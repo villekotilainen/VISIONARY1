@@ -25,7 +25,14 @@ Scrummaster vastaa siitä, että kaikki ymmärtävät ja käyttävät Scrumia. S
 Kehitystiimi koostuu ammattilaisista, jotka muuttavat sprinttiin valitun tuotteen kehitysjonon sisällön potentiaalisesti julkaisukelpoiseksi “valmiiksi” tuoteversioksi jokaisessa sprintissä. Ainoastaan kehitystiimin jäsenet osallistuvat tuoteversion kehitykseen.(Wikipedia)
 
 
-## Kokoukset
+**Kokoukset**
+
+Sprintin alussa on sprintin suunnitelukokous.
+Lyhyt päivittäinen scrum kokous, jossa käydään läpi päivän tavoitteet.
+Sprint Review -kokous, jossa käydään läpi sprintin aikana saavutetut asiat.
+Backlog Refinement -kokouksessa takavarikoidut erät luokitellaan ja priorisoidaan tiimin teknisen keskustelun jälkeen varmistaakseen, että tiimi ymmärtää, mikä on tarkalleen toimitukset ja mitkä ovat vaatimukset.
+
+
 ## Miksi Scrum toimii?
 
 
