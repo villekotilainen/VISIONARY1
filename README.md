@@ -1,6 +1,6 @@
 # VISIONARY1
 
-Scrum-syklin yleiskuvaus
+Scrum-syklin yleiskuvaus /n
 Sprintit
 Työjonot
 Roolit
