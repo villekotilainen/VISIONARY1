@@ -10,6 +10,7 @@
 On ketterän ohjelmistokehityksen prosessi, joka auttaa tiimejä työskentelemään tehokkaasti ja järjestelmällisesti. Se koostuu useista vaiheista, jotka toistuvat toistuvassa sykliessä ja auttavat tiimiä tuottamaan arvokasta ohjelmistoa lyhyissä kehitysvaiheissa.
 
 ## Sprintit
+Parin viikon, säännöllisen mittainen rypistys, jonka aikana on selvästi sovittu työ, joka saatetaan valmiiksi ja esitellään sprintin päätteeksi.
 ## Työjonot
 ## Roolit
 on erittäin tärkeitä tiimin toimivuuden kannalta. roolien avulla on helppo jakaa tehtäviä.
@@ -26,4 +27,5 @@ Kehitystiimi koostuu ammattilaisista, jotka muuttavat sprinttiin valitun tuottee
 
 ## Kokoukset
 ## Miksi Scrum toimii?
+
 
