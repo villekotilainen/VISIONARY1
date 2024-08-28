@@ -1,2 +1,8 @@
 # VISIONARY1
-teht homma juttu
+
+Scrum-syklin yleiskuvaus
+Sprintit
+Työjonot
+Roolit
+Kokoukset
+Miksi Scrum toimii?
