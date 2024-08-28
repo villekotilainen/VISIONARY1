@@ -17,6 +17,13 @@ Työjonot
 Roolit
 on erittäin tärkeitä tiimin toimivuuden kannalta. roolien avulla on helppo jakaa tehtäviä.
 
+** Tuotteen omistaja ** 
+
+** Scrum Master **
+
+** Scrum-tiimi **
+
+
 Kokoukset
 Miksi Scrum toimii?
 
