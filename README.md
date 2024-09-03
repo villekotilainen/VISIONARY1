@@ -35,6 +35,9 @@ Backlog Refinement -kokouksessa takavarikoidut erät luokitellaan ja priorisoida
 
 
 ## Miksi Scrum toimii?
+
+Scrum toimii hyvin, koska se mahdollistaa nopean reagoinnin muutoksiin ja edistää jatkuvaa parantamista. Tärkeimmät syyt Scrumin toimivuudelle ovat:
+
 Iteratiivinen lähestymistapa mahdollistaa nopean reagoinnin muutoksiin ja jatkuvan parantamisen.
 
 Jatkuva palaute auttaa jäseniä jakamaan edistymistään, sekä parantamaan prosesseja ja lopputulosta.
