@@ -35,5 +35,8 @@ Backlog Refinement -kokouksessa takavarikoidut erät luokitellaan ja priorisoida
 
 ## Miksi Scrum toimii?
 Iteratiivinen lähestymistapa mahdollistaa nopean reagoinnin muutoksiin ja jatkuvan parantamisen.
+
 Jatkuva palaute auttaa jäseniä jakamaan edistymistään, parantamaan prosesseja ja lopputulosta.
+
+Mukautuvuuden ansiosta Scrum mahdollistaa niiden sopeutumisen ja käsittelyn ilman suuria ongelmia.
 
