@@ -27,6 +27,7 @@ Kehitystiimi koostuu ammattilaisista, jotka muuttavat sprinttiin valitun tuottee
 
 **Kokoukset**
 
+Scrum-prosessi sisältää useita kokouksia, jotka tukevat tiimin työtä:
 Sprintin alussa on sprintin suunnitelukokous.
 Lyhyt päivittäinen scrum kokous, jossa käydään läpi päivän tavoitteet.
 Sprint Review -kokous, jossa käydään läpi sprintin aikana saavutetut asiat.
