@@ -50,4 +50,5 @@ Iteratiivinen lähestymistapa mahdollistaa nopean reagoinnin muutoksiin ja jatku
 Jatkuva palaute auttaa jäseniä jakamaan edistymistään, sekä parantamaan prosesseja ja lopputulosta.
 
 Mukautuvuuden ansiosta Scrum mahdollistaa suunnitelman tai vaatimuksien muutoksen käsittelyn ilman suuria ongelmia.
+Scrum etenee säännöllisesti ja tuloksia tarkkaillaan säännöllisesti, joten ongelmat ohjelmiston suunnittelussa tai kehityksessä on helppo huomata nopeasti ja tehdä tarvittavia korjaustoimenpiteitä.
 
