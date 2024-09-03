@@ -34,5 +34,5 @@ Backlog Refinement -kokouksessa takavarikoidut erät luokitellaan ja priorisoida
 
 
 ## Miksi Scrum toimii?
-
+Scrum etenee säännöllisesti ja tuloksia tarkkaillaan säännöllisesti, joten ongelmat ohjelmiston suunnittelussa tai kehityksessä on helppo huomata nopeasti ja tehdä tarvittavia korjaustoimenpiteitä.
 
