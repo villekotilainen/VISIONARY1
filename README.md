@@ -11,8 +11,14 @@ On ketterän ohjelmistokehityksen prosessi, joka auttaa tiimejä työskentelemä
 
 ## Sprintit
 Parin viikon, säännöllisen mittainen rypistys, jonka aikana on selvästi sovittu työ, joka saatetaan valmiiksi ja esitellään sprintin päätteeksi.
+
 ## Työjonot
 Työjonot tukevat Scrumin ketterää luonnetta ja varmistavat, että tiimi keskittyy oikeisiin tehtäviin oikeaan aikaan.
+
+Tuotejono (Product Backlog): Sisältää kaikki projektin tehtävät ja vaatimukset. Se on tuoteomistajan hallitsema priorisoitu lista.
+
+Sprinttijono (Sprint Backlog): Koostuu sprintin aikana toteutettavista tuotejonon kohteista. Kehitystiimi hallinnoi tätä listaa sprintin aikana.
+
 ## Roolit
 on erittäin tärkeitä tiimin toimivuuden kannalta. roolien avulla on helppo jakaa tehtäviä.
 
