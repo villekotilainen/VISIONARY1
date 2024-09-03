@@ -12,6 +12,7 @@ On ketterän ohjelmistokehityksen prosessi, joka auttaa tiimejä työskentelemä
 ## Sprintit
 Parin viikon, säännöllisen mittainen rypistys, jonka aikana on selvästi sovittu työ, joka saatetaan valmiiksi ja esitellään sprintin päätteeksi.
 ## Työjonot
+Työjonot tukevat Scrumin ketterää luonnetta ja varmistavat, että tiimi keskittyy oikeisiin tehtäviin oikeaan aikaan.
 ## Roolit
 on erittäin tärkeitä tiimin toimivuuden kannalta. roolien avulla on helppo jakaa tehtäviä.
 
